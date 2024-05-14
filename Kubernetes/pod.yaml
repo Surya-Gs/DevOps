@@ -1,0 +1,18 @@
+# Pods can be created using yaml file
+
+#Pods contains four defenition fields
+
+apiVersion: V1
+kind: Pod
+metadata:
+  name: myapp-pod
+  labels: 
+    app: myapp
+    type: front-end
+
+Spec:
+  containers: 
+  - name: nginx-container
+    image: nginx
+
+
