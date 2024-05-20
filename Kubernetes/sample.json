@@ -1,0 +1,1 @@
+{     "user": "SUPPLY_CHAIN_FINANCE#DATABRICKS",     "password": "m=?hs9EN<iv7~<M)K3(3_)N]>Da91sgz",     "driver": "com.sap.db.jdbc.Driver",     "url": "jdbc:sap://cd1ead89-b152-4b67-b72b-5a10ab52796e.hna0.prod-us10.hanacloud.ondemand.com:443/SUPPLY_CHAIN_FINANCE" }
