@@ -30,7 +30,7 @@ Data manupulation
 Ansible is written in python
 Rich in modules
 Data analysis
-Text Processing
+Text Processings
 
 
 
