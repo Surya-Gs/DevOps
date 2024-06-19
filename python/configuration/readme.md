@@ -13,3 +13,9 @@ Why Python?
 
 7.  High-level Language: Python abstracts many complex details, making it easier to focus on solving the problem at hand rather than dealing with low-level implementation details
 8.  Support for Object-Oriented Programming: Python supports object-oriented programming (OOP) concepts, allowing developers to create reusable and modular code, leading to better organization and maintainability of codebases.
+
+
+
+Why Python over bash?
+
+
