@@ -17,3 +17,11 @@ Functions in devOps
 1) To create a ticket
 2) To create a pull request 
 
+
+
+
+How to use functions efficiently:
+
+Pass input properly
+Perform the required operations
+return the output
