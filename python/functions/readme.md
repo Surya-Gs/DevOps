@@ -25,3 +25,5 @@ How to use functions efficiently:
 Pass input properly
 Perform the required operations
 return the output
+
+
